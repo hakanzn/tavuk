@@ -1,13 +1,13 @@
 {
   "main.css": "/tavuk/static/css/main.b017674f.chunk.css",
-  "main.js": "/tavuk/static/js/main.457ac4e7.chunk.js",
-  "main.js.map": "/tavuk/static/js/main.457ac4e7.chunk.js.map",
-  "static/js/1.c2f1491e.chunk.js": "/tavuk/static/js/1.c2f1491e.chunk.js",
-  "static/js/1.c2f1491e.chunk.js.map": "/tavuk/static/js/1.c2f1491e.chunk.js.map",
+  "main.js": "/tavuk/static/js/main.d1f294ef.chunk.js",
+  "main.js.map": "/tavuk/static/js/main.d1f294ef.chunk.js.map",
+  "static/js/1.8032f890.chunk.js": "/tavuk/static/js/1.8032f890.chunk.js",
+  "static/js/1.8032f890.chunk.js.map": "/tavuk/static/js/1.8032f890.chunk.js.map",
   "runtime~main.js": "/tavuk/static/js/runtime~main.1f8fbfe7.js",
   "runtime~main.js.map": "/tavuk/static/js/runtime~main.1f8fbfe7.js.map",
   "static/css/main.b017674f.chunk.css.map": "/tavuk/static/css/main.b017674f.chunk.css.map",
   "index.html": "/tavuk/index.html",
-  "precache-manifest.3ffd97073286366b841bd62210f0b5b7.js": "/tavuk/precache-manifest.3ffd97073286366b841bd62210f0b5b7.js",
+  "precache-manifest.af975e0f2254638adda27744079797a6.js": "/tavuk/precache-manifest.af975e0f2254638adda27744079797a6.js",
   "service-worker.js": "/tavuk/service-worker.js"
 }
