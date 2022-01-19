@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tavuk/precache-manifest.902c08f3dbfb77da9a298b977f6ca825.js"
+  "/tavuk/precache-manifest.9655607ef37c34c088a30905ad2781fb.js"
 );
 
 workbox.clientsClaim();
