@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/tavuk/static/js/runtime~main.1f8fbfe7.js"
   },
   {
-    "revision": "49dcaf88cd9ca5a34a17",
-    "url": "/tavuk/static/js/main.49dcaf88.chunk.js"
+    "revision": "372c4a80c656744b619b",
+    "url": "/tavuk/static/js/main.372c4a80.chunk.js"
   },
   {
     "revision": "8eb48f3e0ab03b9a92c4",
     "url": "/tavuk/static/js/1.8eb48f3e.chunk.js"
   },
   {
-    "revision": "49dcaf88cd9ca5a34a17",
+    "revision": "372c4a80c656744b619b",
     "url": "/tavuk/static/css/main.a77c052b.chunk.css"
   },
   {
-    "revision": "1a2dac9ac6dbc9c25840525a17b39484",
+    "revision": "ddc2cd9e1010fdc8c8d772206ad720df",
     "url": "/tavuk/index.html"
   }
 ];
